@@ -1,0 +1,4 @@
+name: kata-2020
+dependencies:
+  - pytest
+  - python=3.8.*
