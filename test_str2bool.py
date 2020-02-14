@@ -1,5 +1,5 @@
 import pytest
-from utilities.import str2bool
+import str2bool
 def test_str2bool():
     output_value = str2bool('y')
     expected_output_value = True
